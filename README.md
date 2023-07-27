@@ -136,4 +136,6 @@ The workflow produces a CSV file reporting the mean depth in each `coverage_grou
 
 
 
-
+### Note
+May have issues running on Mac with M2 chip.
+Solution:
